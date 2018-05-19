@@ -10,4 +10,9 @@ second commit in branch dev
 first commit in branch master
 =======
 add merge
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+
+add no-ff
 >>>>>>> dev
