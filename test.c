@@ -8,4 +8,5 @@ second commit in branch dev
 
 first commit in branch master
 add merge
+NOTHING
 add no-ff
