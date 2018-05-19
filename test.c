@@ -7,3 +7,5 @@ first commit in branch dev
 second commit in branch dev
 
 add merge
+
+add no-ff
