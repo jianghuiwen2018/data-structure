@@ -94,5 +94,13 @@ master和Dev合并-->把各自的修改合并起来。
 一种情况就是：分支上产生多提交会如何？
 
 
+git stash(存储当前文件)
+
+git stash list 
+git stash apply (恢复）
+git stash drop(删除)
+git stash pop(恢复并删除)
+git stash apply stash@{0}
+恢复制定的stash
 
 
