@@ -15,3 +15,6 @@ nothing
 add
 jianghuiwen
 jianghiwe
+git  status
+git sjfisajfiasfsa
+git hello world
